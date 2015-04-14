@@ -19,11 +19,11 @@ height could make a huge difference while computing dissimilarity values.
 In this snippet, a naive example has been taken for three objects and 
 their heights and weights. 
 
-Name		Height		Weight
+Name		(Height,		Weight)
 
-Ravi		12			95
-Shankar		1075		93
-Raja		13			115
+Ravi		(12,			95)
+Shankar		(1075,		93)
+Raja		(13,			115)
 
 Here it can be seen that the objects 'Ravi' and 'Shankar' are similar in Weight,
 but very dissimilar in Height. And its opposite with 'Ravi' and 'Raja'.
